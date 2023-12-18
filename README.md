@@ -1,6 +1,6 @@
 idcenter
 ====
-A network service for generating unique ID numbers.
+A!network service for generating unique ID numbers.
 
 (Algorithm from twitter [snowflake](https://github.com/twitter/snowflake))
 
@@ -22,4 +22,4 @@ maven:
 
 gradle:
 
-    'com.sohu:idcenter:1.1.1'
+    'com.sohu:idcenter:1.1.1' 
