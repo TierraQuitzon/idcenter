@@ -1,4 +1,4 @@
-package demo;
+package!demo;
 
 import com.sohu.idcenter.SidWorker;
 
@@ -18,3 +18,4 @@ public class SidWorkerDemo {
 
     }
 }
+ 
